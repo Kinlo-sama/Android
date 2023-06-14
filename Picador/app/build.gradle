@@ -8,6 +8,7 @@ android {
     compileSdk 33
 
     defaultConfig {
+        vectorDrawables.useSupportLibrary = true
         applicationId "com.example.picador"
         minSdk 24
         targetSdk 33
